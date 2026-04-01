@@ -17,4 +17,4 @@
 - Portfolio Website (Coming Soon)
 
 ## Contact
-- Email: shubham.patil.dev@gmail.com
+- Email: shubham.patil.code@gmail.com
